@@ -1,0 +1,251 @@
+id_pozo,campo,zona_operativa,metodo_extraccion,estado_operativo,fecha_inicio_operacion,fecha_ultimo_reporte,profundidad_m,produccion_bpd,produccion_acumulada_mbbl,corte_agua_pct,api_gravedad,presion_cabeza_psi,temperatura_fondo_c,activo,requiere_mantenimiento
+RUB-001,Campo Rubiales,Occidente,Gas Lift,En Mantenimiento,2018-01-01,2026-07-04,2604.1,0.1,1.73,34.9,11.6,228.9,74.0,False,True
+RUB-002,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2013-06-19,2026-07-13,2045.3,51.5,1.81,52.3,12.1,182.7,71.1,True,True
+RUB-003,Campo Rubiales,Occidente,Bombeo Mecanico,En Mantenimiento,2017-10-19,2026-07-08,2758.9,11.5,1.03,19.0,10.2,231.2,70.3,False,True
+RUB-004,Campo Rubiales,Norte,Bombeo Mecanico,En Mantenimiento,2023-07-03,2026-07-01,1922.3,3.6,0.31,21.2,11.1,281.8,92.0,False,True
+RUB-005,Campo Rubiales,Oriente,Flujo Natural,En Mantenimiento,2018-03-27,2026-07-07,2439.1,3.4,0.52,38.7,13.0,247.8,74.7,False,True
+RUB-006,Campo Rubiales,Norte,Flujo Natural,En Mantenimiento,2011-08-11,2026-07-17,2085.4,4.2,0.95,63.7,10.4,206.1,78.5,False,True
+RUB-007,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2011-11-01,2026-06-27,2901.9,116.1,2.12,47.0,12.9,201.9,91.9,True,False
+RUB-008,Campo Rubiales,Norte,BES,En Mantenimiento,2017-09-16,2026-06-24,2045.0,23.4,1.94,51.6,10.8,237.6,82.8,False,True
+RUB-009,Campo Rubiales,Norte,BES,Activo,2014-01-08,2026-07-15,2243.7,210.4,3.05,50.7,11.0,233.1,76.3,True,True
+RUB-010,Campo Rubiales,Sur,Gas Lift,Activo,2022-07-07,2026-07-18,2583.0,333.5,0.62,17.3,12.7,278.9,75.7,True,False
+RUB-011,Campo Rubiales,Centro,Gas Lift,Activo,2020-03-30,2026-06-22,2172.6,140.9,0.83,30.9,8.7,283.3,64.5,True,False
+RUB-012,Campo Rubiales,Norte,BES,Activo,2015-10-07,2026-06-28,1660.5,79.7,2.36,36.4,8.7,248.8,82.9,True,False
+RUB-013,Campo Rubiales,Norte,Gas Lift,Activo,2012-05-05,2026-07-15,2417.2,128.9,2.76,55.5,12.4,194.1,93.0,True,False
+RUB-014,Campo Rubiales,Centro,Bombeo Mecanico,Cerrado,2019-06-06,2026-06-24,2676.6,0.0,0.71,32.9,8.9,10.1,87.7,False,False
+RUB-015,Campo Rubiales,Occidente,BES,Activo,2023-07-18,2026-07-03,2496.7,310.4,0.99,14.9,12.6,315.6,83.6,True,False
+RUB-016,Campo Rubiales,Sur,Gas Lift,Activo,2014-01-04,2026-07-12,2811.7,108.7,1.55,50.7,12.8,214.9,90.9,True,False
+RUB-017,Campo Rubiales,Occidente,Gas Lift,Cerrado,2009-10-23,2026-07-01,2792.6,0.0,2.04,60.4,11.8,0.3,72.3,False,True
+RUB-018,Campo Rubiales,Occidente,BES,Activo,2023-03-13,2026-07-16,2676.0,442.3,0.65,11.3,12.9,297.7,81.8,True,False
+RUB-019,Campo Rubiales,Centro,BES,En Mantenimiento,2018-07-12,2026-07-14,2589.6,42.2,2.67,40.8,8.3,205.6,74.5,False,True
+RUB-020,Campo Rubiales,Norte,Flujo Natural,En Mantenimiento,2010-06-14,2026-07-18,2284.7,5.2,0.73,48.8,10.7,196.3,70.5,False,True
+RUB-021,Campo Rubiales,Centro,BES,Activo,2017-03-06,2026-07-14,2038.4,309.6,3.04,45.1,8.9,214.1,92.6,True,False
+RUB-022,Campo Rubiales,Oriente,Bombeo Mecanico,En Mantenimiento,2010-03-18,2026-07-17,2324.7,12.2,1.77,78.9,14.6,157.5,85.7,False,True
+RUB-023,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2009-08-13,2026-06-26,2336.0,4.8,2.03,73.7,7.5,108.6,79.1,True,True
+RUB-024,Campo Rubiales,Norte,BES,En Mantenimiento,2013-07-06,2026-06-29,1893.0,4.6,2.76,61.5,11.0,235.4,93.9,False,True
+RUB-025,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2012-04-22,2026-06-29,2099.5,89.9,1.54,64.9,12.9,250.5,88.0,True,False
+RUB-026,Campo Rubiales,Occidente,BES,Activo,2016-07-16,2026-06-27,2225.0,274.6,2.21,45.0,11.8,230.5,88.7,True,False
+RUB-027,Campo Rubiales,Centro,Bombeo Mecanico,Cerrado,2010-01-04,2026-07-20,2314.3,0.0,2.46,48.7,11.0,11.7,77.0,False,False
+RUB-028,Campo Rubiales,Oriente,Flujo Natural,Activo,2011-03-01,2026-07-16,2261.9,44.0,0.86,71.8,13.8,240.0,81.9,True,False
+RUB-029,Campo Rubiales,Occidente,Flujo Natural,Activo,2016-10-07,2026-06-28,2992.2,54.0,0.66,39.2,10.1,230.5,87.5,True,False
+RUB-030,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2013-12-28,2026-06-24,2347.8,124.0,1.54,63.1,13.7,218.3,70.3,True,False
+RUB-031,Campo Rubiales,Oriente,Flujo Natural,Activo,2011-06-23,2026-07-17,2020.1,25.7,1.0,61.3,13.4,229.0,96.8,True,False
+RUB-032,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2012-01-17,2026-06-24,2056.7,70.2,1.7,52.2,12.9,229.7,92.4,True,False
+RUB-033,Campo Rubiales,Occidente,Flujo Natural,Activo,2010-12-09,2026-06-26,2847.2,43.9,0.93,62.8,12.1,211.1,92.8,True,True
+RUB-034,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2012-01-17,2026-07-17,2735.4,124.5,1.39,41.4,13.3,162.9,94.2,True,True
+RUB-035,Campo Rubiales,Oriente,BES,En Mantenimiento,2013-01-16,2026-06-22,2078.6,26.1,4.43,44.5,14.8,183.4,92.0,False,True
+RUB-036,Campo Rubiales,Norte,BES,Activo,2019-03-17,2026-07-01,1995.7,269.1,2.52,38.9,9.3,216.2,94.9,True,True
+RUB-037,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2016-03-25,2026-07-16,2477.5,99.5,1.36,45.4,13.8,202.6,78.3,True,False
+RUB-038,Campo Rubiales,Occidente,Flujo Natural,Activo,2008-01-14,2026-07-01,3096.5,32.2,1.26,74.2,10.7,243.1,64.5,True,False
+RUB-039,Campo Rubiales,Oriente,BES,Activo,2015-07-01,2026-07-20,2165.8,345.4,3.13,54.1,13.2,215.6,78.9,True,False
+RUB-040,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2009-02-06,2026-07-05,2183.0,80.3,1.66,57.9,12.6,186.7,87.3,True,False
+RUB-041,Campo Rubiales,Centro,BES,Activo,2020-11-29,2026-06-27,2228.4,262.5,1.59,32.6,9.6,278.4,76.6,True,False
+RUB-042,Campo Rubiales,Oriente,BES,Activo,2009-02-25,2026-06-29,2460.9,47.3,5.58,58.7,13.2,141.7,65.1,True,False
+RUB-043,Campo Rubiales,Occidente,BES,Activo,2021-10-06,2026-07-07,2636.5,270.8,1.05,17.8,13.0,250.0,78.2,True,False
+RUB-044,Campo Rubiales,Centro,BES,Cerrado,2016-02-29,2026-07-11,1996.2,0.0,3.52,59.1,9.8,4.0,93.2,False,True
+RUB-045,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2018-12-20,2026-07-15,2521.7,154.8,1.07,27.4,11.0,215.9,89.3,True,False
+RUB-046,Campo Rubiales,Occidente,BES,Activo,2021-03-08,2026-07-10,2563.3,305.9,1.07,37.0,10.9,299.7,78.7,True,True
+RUB-047,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2018-12-04,2026-07-11,2093.2,87.3,0.91,35.0,10.9,282.7,95.7,True,False
+RUB-048,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2021-09-28,2026-07-12,2116.3,107.4,0.46,21.0,14.5,275.0,89.4,True,False
+RUB-049,Campo Rubiales,Oriente,BES,Activo,2022-10-09,2026-07-04,2301.5,359.9,0.99,23.7,13.8,268.1,78.6,True,False
+RUB-050,Campo Rubiales,Oriente,Bombeo Mecanico,Cerrado,2015-12-13,2026-07-17,2156.7,0.0,0.88,41.9,13.9,2.5,79.7,False,True
+RUB-051,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2015-05-01,2026-07-21,2003.4,125.2,1.25,51.2,11.4,236.6,94.5,True,False
+RUB-052,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2017-05-20,2026-07-01,2695.5,161.2,1.37,28.3,13.8,201.5,74.4,True,True
+RUB-053,Campo Rubiales,Occidente,Gas Lift,Activo,2021-04-18,2026-06-23,2514.8,185.9,1.14,23.2,14.5,305.7,80.9,True,True
+RUB-054,Campo Rubiales,Occidente,BES,Activo,2014-04-30,2026-06-30,2893.6,325.9,2.47,53.1,12.1,238.8,74.0,True,False
+RUB-055,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2022-11-06,2026-07-09,2179.4,150.4,0.51,10.4,7.6,266.8,90.4,True,False
+RUB-056,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2020-09-11,2026-07-15,2997.4,137.8,0.82,33.2,8.6,258.8,65.2,True,False
+RUB-057,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2021-07-18,2026-07-16,2166.4,142.2,0.57,33.8,13.5,263.5,89.0,True,False
+RUB-058,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2011-03-21,2026-06-29,2973.3,83.1,2.31,51.8,14.9,162.6,88.1,True,True
+RUB-059,Campo Rubiales,Occidente,Gas Lift,Activo,2015-07-05,2026-07-09,2908.7,211.7,1.6,50.2,13.6,205.4,79.4,True,True
+RUB-060,Campo Rubiales,Centro,Gas Lift,Activo,2013-09-17,2026-06-29,2457.2,127.6,1.67,44.4,10.1,239.4,90.6,True,True
+RUB-061,Campo Rubiales,Occidente,Gas Lift,Activo,2017-07-08,2026-06-23,2813.9,166.7,1.13,41.8,12.4,252.6,79.5,True,False
+RUB-062,Campo Rubiales,Occidente,BES,Activo,2020-01-10,2026-06-22,2633.2,365.1,1.86,31.1,12.8,235.3,85.4,True,False
+RUB-063,Campo Rubiales,Oriente,Flujo Natural,Activo,2017-02-19,2026-06-29,2172.5,30.2,0.55,39.4,14.1,302.1,91.0,True,True
+RUB-064,Campo Rubiales,Centro,BES,Activo,2021-03-18,2026-07-05,2348.6,371.8,1.63,25.6,9.1,313.4,91.0,True,False
+RUB-065,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2009-08-14,2026-06-30,2390.3,108.6,1.61,62.9,12.4,199.1,66.3,True,True
+RUB-066,Campo Rubiales,Norte,BES,Activo,2010-07-05,2026-07-07,1591.9,297.4,5.68,71.5,11.0,150.7,90.7,True,True
+RUB-067,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2020-07-02,2026-07-07,2875.3,133.2,0.56,18.7,12.1,247.2,65.7,True,False
+RUB-068,Campo Rubiales,Occidente,BES,Activo,2023-03-01,2026-07-18,3235.7,303.8,0.83,33.1,12.1,276.2,77.4,True,False
+RUB-069,Campo Rubiales,Occidente,Gas Lift,Activo,2014-07-04,2026-07-05,2717.8,138.8,1.96,67.6,13.1,193.9,68.8,True,False
+RUB-070,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2021-03-06,2026-07-07,3141.9,122.6,0.48,23.2,9.7,248.3,95.0,True,True
+RUB-071,Campo Rubiales,Sur,BES,Activo,2022-09-10,2026-06-25,2815.1,398.3,1.17,21.6,10.8,265.7,90.8,True,False
+RUB-072,Campo Rubiales,Norte,Gas Lift,Activo,2018-08-23,2026-06-28,2449.1,142.8,1.7,34.9,9.4,259.5,77.4,True,False
+RUB-073,Campo Rubiales,Sur,BES,Activo,2020-02-08,2026-07-09,2625.5,367.3,2.04,34.8,15.1,268.7,90.5,True,False
+RUB-074,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2016-01-16,2026-07-14,2343.0,171.0,1.33,46.2,8.2,189.0,87.0,True,False
+RUB-075,Campo Rubiales,Sur,Flujo Natural,Activo,2012-09-27,2026-07-02,2771.4,66.0,0.86,49.0,12.2,198.6,87.3,True,True
+RUB-076,Campo Rubiales,Norte,Bombeo Mecanico,Cerrado,2016-12-09,2026-06-22,2093.5,0.0,0.98,34.0,8.3,14.9,95.4,False,True
+RUB-077,Campo Rubiales,Occidente,BES,Activo,2016-05-03,2026-07-13,2975.7,190.7,2.87,48.1,11.4,204.4,75.0,True,True
+RUB-078,Campo Rubiales,Oriente,Gas Lift,Activo,2016-02-15,2026-07-21,2144.5,154.4,1.49,51.8,15.6,219.7,85.0,True,True
+RUB-079,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2013-02-01,2026-06-26,2738.5,145.6,1.24,53.9,13.3,185.0,75.0,True,True
+RUB-080,Campo Rubiales,Sur,BES,Activo,2018-06-02,2026-06-28,2683.9,281.9,2.33,51.5,14.5,236.2,85.1,True,False
+RUB-081,Campo Rubiales,Sur,Flujo Natural,En Mantenimiento,2008-03-29,2026-07-12,2645.4,4.7,1.04,75.8,12.1,185.5,92.1,False,True
+RUB-082,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2013-02-06,2026-06-22,2544.9,102.6,1.1,51.9,13.0,179.6,87.5,True,False
+RUB-083,Campo Rubiales,Oriente,Gas Lift,Activo,2021-11-25,2026-06-22,2311.0,236.3,0.57,32.3,11.8,292.3,65.8,True,False
+RUB-084,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2009-10-30,2026-07-06,2549.4,95.9,1.85,58.2,15.0,156.6,88.1,True,False
+RUB-085,Campo Rubiales,Norte,Flujo Natural,Activo,2011-05-12,2026-07-09,1813.9,66.9,0.91,56.2,11.5,219.1,85.8,True,True
+RUB-086,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2016-07-24,2026-07-14,1991.7,94.5,1.28,43.5,12.4,240.4,95.7,True,False
+RUB-087,Campo Rubiales,Oriente,Gas Lift,Activo,2015-06-12,2026-06-29,2427.9,246.1,2.0,43.9,13.3,244.4,90.6,True,False
+RUB-088,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2015-11-29,2026-07-10,2793.7,30.2,1.37,44.4,12.2,254.8,93.3,True,False
+RUB-089,Campo Rubiales,Occidente,Gas Lift,En Mantenimiento,2010-11-05,2026-07-09,2455.2,10.0,2.17,60.5,12.0,224.1,68.2,False,True
+RUB-090,Campo Rubiales,Sur,Flujo Natural,Activo,2013-07-04,2026-07-18,2882.8,47.1,0.59,49.7,12.3,240.9,77.9,True,False
+RUB-091,Campo Rubiales,Oriente,Flujo Natural,Cerrado,2011-04-16,2026-07-10,2157.5,0.0,0.75,75.5,15.8,4.6,93.5,False,True
+RUB-092,Campo Rubiales,Sur,Gas Lift,Activo,2020-03-10,2026-07-06,2587.0,79.9,0.76,17.3,12.6,240.8,64.5,True,False
+RUB-093,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2011-05-31,2026-07-05,2200.8,53.0,2.1,51.2,11.7,209.1,81.9,True,False
+RUB-094,Campo Rubiales,Centro,Flujo Natural,Activo,2013-02-23,2026-07-09,2442.8,59.7,0.91,54.5,10.9,211.8,96.7,True,False
+RUB-095,Campo Rubiales,Oriente,BES,Activo,2014-10-12,2026-06-25,2075.7,257.3,3.95,46.4,16.1,195.8,73.4,True,False
+RUB-096,Campo Rubiales,Oriente,BES,Cerrado,2021-07-15,2026-07-12,2098.1,0.0,0.97,34.6,13.1,9.1,66.4,False,True
+RUB-097,Campo Rubiales,Sur,BES,En Mantenimiento,2008-10-16,2026-06-28,3061.0,23.3,6.15,76.4,12.5,160.7,64.2,False,True
+RUB-098,Campo Rubiales,Norte,Gas Lift,Activo,2021-01-07,2026-07-10,1570.8,190.9,1.1,20.3,11.4,258.7,66.7,True,True
+RUB-099,Campo Rubiales,Sur,BES,Activo,2020-01-01,2026-07-15,2698.6,379.3,2.18,25.0,12.6,308.4,96.5,True,False
+RUB-100,Campo Rubiales,Norte,Bombeo Mecanico,En Mantenimiento,2008-08-21,2026-06-28,2272.5,10.5,1.52,69.3,10.3,202.2,72.8,False,True
+RUB-101,Campo Rubiales,Occidente,BES,Activo,2013-03-13,2026-07-09,2603.3,261.0,4.36,52.0,12.7,214.7,89.1,True,False
+RUB-102,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2020-05-02,2026-07-13,2545.0,118.5,0.7,31.5,14.8,241.6,83.4,True,False
+RUB-103,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2013-05-29,2026-07-13,2391.2,51.5,1.52,61.2,12.1,222.5,68.2,True,False
+RUB-104,Campo Rubiales,Oriente,Gas Lift,Activo,2023-09-17,2026-07-13,2535.2,260.9,0.35,21.9,13.2,282.8,74.0,True,False
+RUB-105,Campo Rubiales,Sur,BES,Activo,2022-03-03,2026-07-07,2325.0,331.0,1.5,18.8,14.9,259.2,79.8,True,False
+RUB-106,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2020-09-26,2026-06-22,2110.0,139.7,0.7,21.9,10.2,255.9,66.8,True,False
+RUB-107,Campo Rubiales,Oriente,Flujo Natural,Cerrado,2009-05-05,2026-07-20,2298.2,0.0,0.86,62.4,14.6,5.8,95.8,False,False
+RUB-108,Campo Rubiales,Sur,Flujo Natural,Activo,2016-09-18,2026-07-20,2699.9,48.9,0.7,47.6,15.0,264.5,88.0,True,True
+RUB-109,Campo Rubiales,Oriente,Gas Lift,Activo,2014-02-23,2026-07-15,2296.1,58.2,1.87,46.2,14.6,241.6,70.1,True,True
+RUB-110,Campo Rubiales,Centro,BES,Activo,2020-03-01,2026-06-25,2488.5,462.2,1.75,29.8,7.9,237.0,84.3,True,True
+RUB-111,Campo Rubiales,Centro,Flujo Natural,Cerrado,2011-10-15,2026-06-27,2543.8,0.0,0.69,67.9,9.4,8.2,87.7,False,False
+RUB-112,Campo Rubiales,Norte,Bombeo Mecanico,Cerrado,2014-12-30,2026-06-29,2399.6,0.0,0.95,53.1,11.4,2.6,79.2,False,False
+RUB-113,Campo Rubiales,Oriente,Gas Lift,Activo,2017-10-30,2026-07-07,2298.2,193.3,1.35,46.5,13.7,231.9,72.0,True,True
+RUB-114,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2015-01-31,2026-07-08,2000.3,63.0,1.67,63.8,15.2,207.8,78.6,True,False
+RUB-115,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2023-05-10,2026-07-21,2110.6,257.6,0.33,24.6,16.4,277.9,80.8,True,False
+RUB-116,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2016-05-22,2026-07-15,2872.3,132.3,1.3,38.7,14.0,244.4,83.0,True,False
+RUB-117,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2015-02-25,2026-06-27,2333.7,152.1,1.37,60.1,15.7,251.0,93.3,True,True
+RUB-118,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2008-12-15,2026-06-28,2133.2,20.3,2.1,66.3,13.4,190.3,86.4,True,False
+RUB-119,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2018-11-02,2026-07-03,1967.3,34.1,0.75,40.9,11.3,288.7,85.7,True,False
+RUB-120,Campo Rubiales,Oriente,Bombeo Mecanico,En Mantenimiento,2018-02-24,2026-07-11,2647.6,2.3,0.9,38.3,18.1,263.3,74.5,False,True
+RUB-121,Campo Rubiales,Occidente,Flujo Natural,Activo,2012-05-27,2026-07-11,2528.4,63.5,0.79,54.2,12.7,189.0,88.6,True,True
+RUB-122,Campo Rubiales,Occidente,Gas Lift,En Mantenimiento,2022-10-20,2026-07-13,2521.5,32.4,0.73,19.7,12.4,285.8,76.2,False,True
+RUB-123,Campo Rubiales,Oriente,Gas Lift,Activo,2017-12-23,2026-06-22,2202.3,159.2,1.71,36.0,12.9,252.7,86.2,True,False
+RUB-124,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2013-11-05,2026-07-16,2777.0,122.2,1.24,46.2,13.1,227.8,95.2,True,False
+RUB-125,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2018-05-11,2026-06-24,1618.0,158.9,0.84,58.3,12.3,250.5,75.1,True,False
+RUB-126,Campo Rubiales,Occidente,BES,En Mantenimiento,2021-05-10,2026-07-17,3422.4,34.0,1.58,33.8,14.3,305.1,80.8,False,True
+RUB-127,Campo Rubiales,Centro,Bombeo Mecanico,Cerrado,2009-06-24,2026-07-20,2025.6,0.0,2.01,65.7,9.7,6.6,75.7,False,False
+RUB-128,Campo Rubiales,Occidente,BES,Activo,2019-12-26,2026-07-16,2725.9,289.1,2.28,39.6,12.4,298.1,92.2,True,False
+RUB-129,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2014-11-05,2026-07-08,2570.0,80.5,1.4,67.2,16.7,241.5,68.8,True,False
+RUB-130,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2022-08-16,2026-07-17,2233.6,88.9,0.5,19.5,9.2,270.8,87.6,True,False
+RUB-131,Campo Rubiales,Centro,BES,Cerrado,2020-06-27,2026-06-26,2192.5,0.0,1.96,36.8,9.3,7.4,71.7,False,True
+RUB-132,Campo Rubiales,Centro,Bombeo Mecanico,En Mantenimiento,2015-12-18,2026-07-16,2983.2,11.7,1.1,57.5,9.9,194.1,73.7,False,True
+RUB-133,Campo Rubiales,Norte,Flujo Natural,En Mantenimiento,2014-09-28,2026-07-05,2117.5,5.1,0.79,67.4,9.4,256.4,74.2,False,True
+RUB-134,Campo Rubiales,Norte,Flujo Natural,Activo,2020-06-23,2026-07-13,1870.2,59.7,0.42,28.0,11.8,246.1,75.5,True,False
+RUB-135,Campo Rubiales,Occidente,Gas Lift,Activo,2018-02-18,2026-07-13,2985.4,133.5,1.53,37.8,14.2,222.6,76.1,True,False
+RUB-136,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2016-09-04,2026-07-02,2562.2,174.6,0.93,41.0,15.8,255.7,87.7,True,False
+RUB-137,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2009-04-16,2026-07-02,2908.8,110.3,1.85,79.1,12.6,198.2,67.4,True,False
+RUB-138,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2011-05-24,2026-07-05,2133.0,164.0,2.13,62.7,12.0,192.3,93.3,True,True
+RUB-139,Campo Rubiales,Occidente,Gas Lift,En Mantenimiento,2018-07-05,2026-06-22,3457.4,12.5,1.16,21.8,14.0,217.4,89.3,False,True
+RUB-140,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2019-10-23,2026-06-27,2155.6,190.1,1.0,33.8,15.8,224.0,86.3,True,False
+RUB-141,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2013-12-17,2026-07-09,1999.5,62.9,1.68,63.7,11.2,257.8,93.6,True,False
+RUB-142,Campo Rubiales,Occidente,BES,En Mantenimiento,2009-01-19,2026-07-03,3012.9,14.7,3.78,66.3,14.8,186.4,66.0,False,True
+RUB-143,Campo Rubiales,Oriente,BES,Activo,2014-07-02,2026-07-18,2219.0,99.6,3.28,43.9,15.7,209.3,80.9,True,False
+RUB-144,Campo Rubiales,Sur,Flujo Natural,En Mantenimiento,2011-07-11,2026-06-30,3131.4,5.0,0.69,64.1,12.4,204.2,72.5,False,True
+RUB-145,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2009-12-03,2026-06-29,2300.9,83.7,2.11,50.0,8.3,208.2,70.4,True,True
+RUB-146,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2016-10-19,2026-07-08,1984.5,105.1,1.27,51.1,12.4,180.0,88.2,True,False
+RUB-147,Campo Rubiales,Centro,Gas Lift,Activo,2009-02-04,2026-07-02,2468.0,139.9,2.49,58.8,10.0,228.5,89.8,True,False
+RUB-148,Campo Rubiales,Centro,BES,Cerrado,2017-03-14,2026-07-20,2193.7,0.0,2.23,43.2,9.5,5.4,65.8,False,False
+RUB-149,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2022-12-20,2026-07-17,3128.8,132.9,0.49,19.8,14.4,281.4,71.6,True,False
+RUB-150,Campo Rubiales,Centro,BES,Activo,2022-12-13,2026-06-30,2533.2,351.3,0.86,11.6,7.5,298.6,65.6,True,False
+RUB-151,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2018-05-23,2026-07-02,1820.4,129.9,0.78,29.9,10.3,226.1,72.4,True,True
+RUB-152,Campo Rubiales,Occidente,BES,Activo,2013-05-31,2026-07-04,2985.7,109.4,3.56,49.1,10.5,204.4,69.3,True,False
+RUB-153,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2012-03-28,2026-07-20,2487.8,52.9,1.41,51.1,10.9,206.7,86.3,True,False
+RUB-154,Campo Rubiales,Oriente,BES,Activo,2015-04-01,2026-06-26,2047.5,356.6,2.27,50.6,13.6,235.0,83.5,True,False
+RUB-155,Campo Rubiales,Sur,BES,Activo,2022-12-28,2026-06-25,2923.9,371.6,1.2,22.2,12.3,269.6,91.3,True,False
+RUB-156,Campo Rubiales,Centro,BES,Activo,2011-02-01,2026-07-21,2461.1,263.9,3.45,42.3,9.9,140.0,66.5,True,False
+RUB-157,Campo Rubiales,Sur,BES,En Mantenimiento,2019-01-01,2026-07-12,2597.9,41.7,2.21,41.9,12.4,233.3,95.1,False,True
+RUB-158,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2021-05-11,2026-07-11,3179.5,184.7,0.54,22.5,13.3,295.2,70.5,True,True
+RUB-159,Campo Rubiales,Sur,Gas Lift,Activo,2013-06-24,2026-07-16,2502.2,111.1,2.65,70.8,15.8,227.2,91.5,True,True
+RUB-160,Campo Rubiales,Sur,BES,Activo,2020-03-26,2026-07-04,2479.8,223.4,1.5,39.7,12.5,266.3,93.3,True,False
+RUB-161,Campo Rubiales,Centro,BES,Activo,2019-02-03,2026-07-20,2597.3,254.1,2.59,38.8,11.0,224.9,67.8,True,False
+RUB-162,Campo Rubiales,Sur,Gas Lift,Cerrado,2021-08-24,2026-06-27,2342.4,0.0,0.72,16.6,14.0,3.2,66.8,False,True
+RUB-163,Campo Rubiales,Oriente,Flujo Natural,Activo,2019-07-07,2026-06-27,1912.0,70.0,0.51,48.6,16.4,242.9,79.3,True,False
+RUB-164,Campo Rubiales,Norte,Gas Lift,En Mantenimiento,2019-07-27,2026-07-11,2020.3,11.0,1.36,48.8,10.7,310.7,81.5,False,True
+RUB-165,Campo Rubiales,Norte,BES,Activo,2017-09-11,2026-06-26,2348.2,229.2,2.46,49.1,11.0,218.0,78.3,True,False
+RUB-166,Campo Rubiales,Norte,BES,En Mantenimiento,2008-02-22,2026-06-27,2039.9,25.0,4.31,71.5,10.2,146.2,75.7,False,True
+RUB-167,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2014-07-25,2026-07-07,2883.6,94.3,1.34,57.4,14.8,229.8,75.9,True,False
+RUB-168,Campo Rubiales,Norte,BES,En Mantenimiento,2017-03-27,2026-07-07,2257.6,11.1,2.57,44.9,12.3,226.6,95.7,False,True
+RUB-169,Campo Rubiales,Norte,Bombeo Mecanico,En Mantenimiento,2015-12-24,2026-07-11,2316.8,1.5,1.26,44.1,9.3,213.4,85.2,False,True
+RUB-170,Campo Rubiales,Oriente,Bombeo Mecanico,En Mantenimiento,2011-07-18,2026-07-03,2455.6,11.4,2.01,50.5,13.7,217.5,89.4,False,True
+RUB-171,Campo Rubiales,Sur,Flujo Natural,Activo,2015-06-02,2026-06-29,2138.4,46.6,0.65,51.3,15.4,234.3,91.2,True,True
+RUB-172,Campo Rubiales,Sur,BES,Cerrado,2009-12-10,2026-07-12,2596.9,0.0,3.84,63.0,14.9,9.5,76.7,False,False
+RUB-173,Campo Rubiales,Sur,BES,Activo,2022-05-12,2026-07-12,2638.5,296.5,1.2,20.5,15.2,284.0,88.9,True,False
+RUB-174,Campo Rubiales,Occidente,Bombeo Mecanico,En Mantenimiento,2019-05-17,2026-07-17,2866.7,9.8,0.77,36.7,11.1,270.7,80.4,False,True
+RUB-175,Campo Rubiales,Sur,Bombeo Mecanico,En Mantenimiento,2011-09-11,2026-06-28,2853.3,9.0,2.25,68.1,13.7,200.9,93.6,False,True
+RUB-176,Campo Rubiales,Sur,Flujo Natural,Cerrado,2020-08-28,2026-07-08,2485.8,0.0,0.37,34.5,13.3,11.8,74.3,False,False
+RUB-177,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2008-04-18,2026-06-25,2271.8,70.3,2.23,67.3,15.4,188.5,76.6,True,True
+RUB-178,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2014-06-11,2026-06-26,1928.2,77.8,1.62,61.9,10.2,208.8,86.9,True,False
+RUB-179,Campo Rubiales,Oriente,Bombeo Mecanico,En Mantenimiento,2013-05-19,2026-07-04,2099.7,0.7,1.92,52.3,14.7,193.7,83.6,False,True
+RUB-180,Campo Rubiales,Sur,Gas Lift,Activo,2014-10-29,2026-07-05,2650.9,248.5,1.81,54.1,12.8,221.6,79.8,True,False
+RUB-181,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2020-03-30,2026-07-09,1639.5,90.3,0.61,26.2,10.5,267.5,65.3,True,False
+RUB-182,Campo Rubiales,Norte,BES,Activo,2012-11-27,2026-06-22,1990.2,282.0,4.53,43.3,10.9,229.2,86.0,True,True
+RUB-183,Campo Rubiales,Norte,Flujo Natural,Activo,2009-02-10,2026-07-18,2151.8,58.6,0.78,52.0,11.4,217.8,69.9,True,False
+RUB-184,Campo Rubiales,Oriente,Flujo Natural,Activo,2011-08-12,2026-07-06,1913.7,25.3,0.67,65.8,15.1,186.5,67.8,True,True
+RUB-185,Campo Rubiales,Occidente,Flujo Natural,Activo,2018-06-08,2026-07-01,2830.6,43.7,0.6,31.1,12.7,233.4,96.7,True,False
+RUB-186,Campo Rubiales,Sur,Flujo Natural,En Mantenimiento,2009-09-10,2026-06-30,2766.3,5.5,0.75,68.1,12.3,184.0,91.9,False,True
+RUB-187,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2020-06-15,2026-07-09,2104.1,110.2,0.64,30.9,14.7,217.1,85.0,True,False
+RUB-188,Campo Rubiales,Oriente,Bombeo Mecanico,En Mantenimiento,2022-02-27,2026-07-20,1945.5,12.8,0.54,40.6,14.1,242.5,74.9,False,True
+RUB-189,Campo Rubiales,Norte,BES,Activo,2015-12-12,2026-06-26,2331.4,212.7,3.53,47.6,9.4,283.5,79.4,True,False
+RUB-190,Campo Rubiales,Oriente,BES,Activo,2018-09-15,2026-07-06,2671.4,344.9,1.94,33.6,14.5,275.0,74.5,True,False
+RUB-191,Campo Rubiales,Occidente,Flujo Natural,Activo,2012-02-26,2026-07-03,2568.1,22.1,0.76,49.3,13.4,204.1,96.6,True,False
+RUB-192,Campo Rubiales,Sur,Gas Lift,Activo,2014-01-01,2026-07-02,2713.1,106.1,2.51,58.8,13.8,179.2,83.0,True,False
+RUB-193,Campo Rubiales,Occidente,Gas Lift,Activo,2010-05-19,2026-07-12,2180.4,181.0,2.05,62.5,11.5,196.7,89.5,True,False
+RUB-194,Campo Rubiales,Sur,Gas Lift,Cerrado,2013-02-19,2026-07-11,2432.8,0.0,1.79,66.2,15.0,10.6,87.2,False,False
+RUB-195,Campo Rubiales,Oriente,BES,Activo,2016-08-02,2026-06-24,1965.8,315.1,2.34,46.6,16.6,247.4,82.9,True,False
+RUB-196,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2019-08-27,2026-07-14,2932.1,97.1,0.86,31.3,13.0,238.0,93.9,True,False
+RUB-197,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2021-08-09,2026-07-15,2243.9,124.5,0.71,21.0,9.6,232.5,93.7,True,False
+RUB-198,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2018-09-02,2026-07-06,2387.5,75.3,0.78,33.9,15.5,229.6,72.4,True,False
+RUB-199,Campo Rubiales,Sur,Flujo Natural,Activo,2008-02-17,2026-07-11,2575.0,20.8,1.22,62.7,11.7,145.0,96.0,True,False
+RUB-200,Campo Rubiales,Oriente,Flujo Natural,Activo,2012-01-16,2026-07-04,2305.2,42.7,0.74,48.2,17.1,158.0,81.5,True,True
+RUB-201,Campo Rubiales,Occidente,Flujo Natural,Cerrado,2011-01-14,2026-07-08,2833.6,0.0,0.67,63.4,14.1,12.8,86.7,False,False
+RUB-202,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2022-12-25,2026-06-22,1921.4,124.3,0.49,18.4,8.5,272.8,64.3,True,False
+RUB-203,Campo Rubiales,Oriente,Flujo Natural,Activo,2009-06-12,2026-07-18,2018.9,79.5,1.17,58.6,13.7,178.1,95.8,True,False
+RUB-204,Campo Rubiales,Sur,Gas Lift,Activo,2014-08-24,2026-07-11,2665.4,233.0,1.47,54.1,15.0,213.2,78.0,True,False
+RUB-205,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2008-09-24,2026-06-23,2442.7,104.1,1.75,78.9,12.8,182.2,85.5,True,False
+RUB-206,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2011-10-01,2026-06-27,2029.5,83.0,2.18,49.4,11.0,196.3,68.5,True,False
+RUB-207,Campo Rubiales,Norte,Bombeo Mecanico,En Mantenimiento,2016-07-11,2026-07-06,2242.2,9.1,1.03,53.4,11.2,223.5,84.4,False,True
+RUB-208,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2017-10-14,2026-07-20,2543.4,100.7,1.24,49.9,11.2,271.2,85.7,True,False
+RUB-209,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2022-05-08,2026-07-06,2438.5,17.2,0.57,25.3,7.5,278.8,95.9,True,False
+RUB-210,Campo Rubiales,Sur,Bombeo Mecanico,En Mantenimiento,2010-06-28,2026-07-08,2620.7,0.9,2.12,57.4,13.5,219.5,73.7,False,True
+RUB-211,Campo Rubiales,Centro,Bombeo Mecanico,En Mantenimiento,2010-01-30,2026-07-18,2581.9,9.6,1.56,65.0,9.4,185.7,96.5,False,True
+RUB-212,Campo Rubiales,Sur,Flujo Natural,Activo,2012-07-28,2026-07-08,2562.1,57.8,0.76,74.2,11.7,175.8,73.2,True,True
+RUB-213,Campo Rubiales,Occidente,BES,Activo,2020-04-06,2026-06-22,2727.9,413.3,1.69,19.8,13.3,244.3,95.6,True,False
+RUB-214,Campo Rubiales,Occidente,BES,En Mantenimiento,2019-11-14,2026-06-25,2761.1,39.7,1.7,40.5,13.1,292.7,92.7,False,True
+RUB-215,Campo Rubiales,Sur,BES,Activo,2022-09-17,2026-07-03,2663.0,252.7,0.9,34.3,13.2,277.1,81.0,True,True
+RUB-216,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2008-10-13,2026-06-28,2853.1,65.1,2.16,64.7,11.8,191.9,89.9,True,True
+RUB-217,Campo Rubiales,Oriente,BES,Activo,2021-05-01,2026-07-02,2342.4,288.9,1.69,14.9,13.1,284.6,82.8,True,False
+RUB-218,Campo Rubiales,Oriente,BES,En Mantenimiento,2016-12-07,2026-06-26,2084.7,15.5,2.67,41.6,13.2,241.7,93.4,False,True
+RUB-219,Campo Rubiales,Oriente,Flujo Natural,Activo,2010-07-28,2026-07-10,2080.7,38.4,0.66,65.9,15.1,132.0,80.9,True,True
+RUB-220,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2013-06-11,2026-07-03,2078.9,100.2,1.12,50.9,14.5,180.9,85.2,True,False
+RUB-221,Campo Rubiales,Centro,BES,Activo,2019-04-20,2026-06-26,2660.4,394.0,1.99,42.6,10.1,257.3,73.4,True,False
+RUB-222,Campo Rubiales,Centro,Flujo Natural,Activo,2011-05-01,2026-06-27,2252.2,45.4,1.08,43.0,10.7,222.7,64.3,True,False
+RUB-223,Campo Rubiales,Norte,BES,Activo,2021-10-02,2026-06-25,2197.0,278.0,1.45,30.2,9.9,249.9,72.7,True,False
+RUB-224,Campo Rubiales,Occidente,Bombeo Mecanico,Activo,2011-03-25,2026-06-27,2784.4,62.1,2.28,62.6,12.2,185.7,66.0,True,False
+RUB-225,Campo Rubiales,Sur,BES,Activo,2022-01-14,2026-07-17,2546.2,355.7,0.85,35.0,14.2,296.0,71.0,True,True
+RUB-226,Campo Rubiales,Centro,BES,En Mantenimiento,2012-10-04,2026-07-14,2675.5,32.8,4.66,54.5,8.3,205.4,95.5,False,True
+RUB-227,Campo Rubiales,Oriente,Flujo Natural,Activo,2011-08-29,2026-07-17,1904.9,80.5,1.06,62.5,11.7,204.8,74.4,True,True
+RUB-228,Campo Rubiales,Sur,Flujo Natural,Activo,2019-09-14,2026-06-26,3018.1,55.9,0.43,18.0,14.1,250.8,79.2,True,False
+RUB-229,Campo Rubiales,Oriente,Gas Lift,Activo,2022-09-28,2026-07-08,1856.5,187.4,0.8,40.1,12.6,241.4,73.0,True,False
+RUB-230,Campo Rubiales,Centro,Bombeo Mecanico,Activo,2010-12-31,2026-07-10,2295.7,50.4,2.01,64.2,8.6,225.5,94.9,True,False
+RUB-231,Campo Rubiales,Oriente,Flujo Natural,Cerrado,2020-12-20,2026-06-30,2405.3,0.0,0.32,28.4,15.5,2.8,66.0,False,False
+RUB-232,Campo Rubiales,Occidente,BES,Cerrado,2019-04-04,2026-07-09,2634.4,0.0,1.87,31.1,14.2,3.5,81.1,False,True
+RUB-233,Campo Rubiales,Oriente,Bombeo Mecanico,En Mantenimiento,2022-03-06,2026-06-29,2314.3,10.6,0.55,44.9,14.1,264.0,72.1,False,True
+RUB-234,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2014-02-06,2026-06-22,2275.8,101.1,1.2,58.4,10.0,210.2,78.8,True,False
+RUB-235,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2015-08-02,2026-07-16,2069.9,53.3,1.45,49.5,16.9,190.8,81.1,True,False
+RUB-236,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2021-10-28,2026-07-12,2579.3,122.3,0.59,27.8,14.8,296.9,69.0,True,False
+RUB-237,Campo Rubiales,Sur,Bombeo Mecanico,En Mantenimiento,2012-04-06,2026-07-03,2375.2,14.0,2.0,57.2,13.5,196.9,81.3,False,True
+RUB-238,Campo Rubiales,Occidente,Gas Lift,Activo,2016-11-17,2026-07-04,2894.9,105.8,1.26,44.3,12.5,248.5,67.7,True,True
+RUB-239,Campo Rubiales,Occidente,Bombeo Mecanico,En Mantenimiento,2012-10-27,2026-07-11,2473.1,9.8,1.81,75.4,14.6,217.9,82.2,False,True
+RUB-240,Campo Rubiales,Oriente,Bombeo Mecanico,Activo,2010-03-24,2026-06-29,2563.8,94.5,1.63,74.4,13.7,232.3,85.8,True,False
+RUB-241,Campo Rubiales,Oriente,Flujo Natural,Activo,2012-05-17,2026-07-19,2414.0,86.9,0.91,46.6,14.4,230.2,87.4,True,False
+RUB-242,Campo Rubiales,Oriente,BES,En Mantenimiento,2023-07-02,2026-07-19,1989.6,39.3,1.06,14.9,18.7,299.6,77.6,False,True
+RUB-243,Campo Rubiales,Norte,BES,Activo,2021-05-07,2026-07-20,1982.8,314.8,1.71,19.4,9.2,232.1,65.8,True,True
+RUB-244,Campo Rubiales,Sur,Bombeo Mecanico,Activo,2013-10-15,2026-06-24,2575.1,183.5,1.67,56.9,13.2,188.0,82.7,True,True
+RUB-245,Campo Rubiales,Norte,Flujo Natural,Activo,2011-05-02,2026-07-12,1992.0,50.5,0.91,66.8,9.9,212.7,82.5,True,False
+RUB-246,Campo Rubiales,Oriente,BES,Activo,2023-02-17,2026-07-01,2009.3,247.4,0.87,27.5,15.5,245.9,83.1,True,True
+RUB-247,Campo Rubiales,Sur,BES,Activo,2020-02-10,2026-07-01,2254.5,278.6,1.46,44.9,11.3,224.1,67.3,True,True
+RUB-248,Campo Rubiales,Sur,Bombeo Mecanico,En Mantenimiento,2012-02-23,2026-07-03,2994.1,13.7,1.98,54.0,13.6,191.2,83.4,False,True
+RUB-249,Campo Rubiales,Norte,Bombeo Mecanico,Activo,2023-04-14,2026-07-05,2178.4,163.3,0.32,26.5,8.2,265.7,78.7,True,False
+RUB-250,Campo Rubiales,Centro,Gas Lift,Activo,2015-07-11,2026-07-02,2155.7,124.2,2.21,45.4,9.5,202.8,84.8,True,True

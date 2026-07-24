@@ -74,7 +74,16 @@ La aplicación se abrirá automáticamente en tu navegador en `http://localhost:
 | **Pandas** | Carga, limpieza y transformación de datos |
 | **Streamlit** | Framework para construir la interfaz web interactiva |
 | **Plotly Express** | Visualizaciones interactivas (barras, dona, histograma, dispersión) |
-| **Jupyter Notebook** | Análisis exploratorio de datos (EDA) previo al dashboard |
+
+### 🗺️ Próximos pasos
+
+- [ ] Agregar un notebook de **EDA (Análisis Exploratorio de Datos)** documentando los hallazgos previos al diseño del dashboard.
+- [x] Desplegar la app públicamente con **Render** 🚀
+
+### 🌐 Demo en vivo
+👉 [Ver la aplicación desplegada](https://streamlit-app-campo-rubiales-2.onrender.com)
+
+> ⏳ *Nota: Render pone en pausa las apps gratuitas tras un período de inactividad, así que la primera carga puede tardar unos 30-60 segundos en "despertar".*
 
 ### 🎨 Paleta de colores corporativa (Grupo Ecopetrol)
 
@@ -168,7 +177,16 @@ The app will automatically open in your browser at `http://localhost:8501`.
 | **Pandas** | Data loading, cleaning, and transformation |
 | **Streamlit** | Framework for the interactive web interface |
 | **Plotly Express** | Interactive charts (bar, donut, histogram, scatter) |
-| **Jupyter Notebook** | Exploratory data analysis (EDA) prior to the dashboard |
+
+### 🗺️ Next steps
+
+- [ ] Add an **EDA (Exploratory Data Analysis)** notebook documenting the findings behind the dashboard's design.
+- [x] Deploy the app publicly with **Render** 🚀
+
+### 🌐 Live Demo
+👉 [View the deployed app](https://streamlit-app-campo-rubiales-2.onrender.com)
+
+> ⏳ *Note: Render pauses free-tier apps after a period of inactivity, so the first load may take about 30-60 seconds to "wake up".*
 
 ### 🎨 Corporate color palette (Ecopetrol Group)
 

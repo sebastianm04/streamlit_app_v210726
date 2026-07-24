@@ -87,6 +87,9 @@ La aplicación se abrirá automáticamente en tu navegador en `http://localhost:
 
 ### 📊 Vista previa
 
+<p align="center">
+  <img src="assets/preview.png" alt="Preview proyecto" width="220"/>
+</p>
 > 📸 *Agrega aquí una captura de pantalla de tu dashboard una vez lo tengas corriendo localmente, para que quien visite el repositorio pueda verlo sin instalarlo.*
 
 ```markdown

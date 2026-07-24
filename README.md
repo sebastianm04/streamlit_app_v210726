@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo_ecopetrol.png" alt="Logo Ecopetrol" width="220"/>
+  <img src="assets/logo_ecopetrol.png" alt="Logo Ecopetrol" width="300"/>
 </p>
 
 <h1 align="center">🛢️ Dashboard de Producción Petrolera — Campo Rubiales 🦎</h1>
@@ -40,7 +40,7 @@ Sigue estos pasos para ejecutar el proyecto en tu propia máquina:
 **1. Clona el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/streamlit-app-campo-rubiales.git
+git clone https://github.com/sebastianm04/streamlit-app-campo-rubiales.git
 cd streamlit-app-campo-rubiales
 ```
 
@@ -88,13 +88,8 @@ La aplicación se abrirá automáticamente en tu navegador en `http://localhost:
 ### 📊 Vista previa
 
 <p align="center">
-  <img src="assets/preview.png" alt="Preview proyecto" width="220"/>
+  <img src="assets/preview.png" alt="Vista previa del dashboard" width="100%"/>
 </p>
-> 📸 *Agrega aquí una captura de pantalla de tu dashboard una vez lo tengas corriendo localmente, para que quien visite el repositorio pueda verlo sin instalarlo.*
-
-```markdown
-![Vista previa del dashboard](assets/preview.png)
-```
 
 ### ⚠️ Nota importante sobre los datos
 
@@ -139,7 +134,7 @@ Follow these steps to run the project on your own machine:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/streamlit-app-campo-rubiales.git
+git clone https://github.com/sebastianm04/streamlit-app-campo-rubiales.git
 cd streamlit-app-campo-rubiales
 ```
 
@@ -186,11 +181,9 @@ The app will automatically open in your browser at `http://localhost:8501`.
 
 ### 📊 Preview
 
-> 📸 *Add a screenshot of your dashboard here once it's running locally, so anyone visiting the repository can see it without installing it.*
-
-```markdown
-![Dashboard preview](assets/preview.png)
-```
+<p align="center">
+  <img src="assets/preview.png" alt="Dashboard preview" width="100%"/>
+</p>
 
 ### ⚠️ Important note about the data
 
